@@ -1,4 +1,4 @@
-## Sup Bruh?
+# Sup Bruh?
 
 Hello World Extension. Used to discuss props and some basic conventions.
 

@@ -1,4 +1,4 @@
-## Sup Bruh? Pt 2
+# Sup Bruh? Pt 2
 
 Updated the sample app in lesson 1. Used to discuss basic styling and the application of es6 destructuring to React props.
 
@@ -7,7 +7,7 @@ Updated the sample app in lesson 1. Used to discuss basic styling and the applic
 1. Run `npm install react-bootstrap bootstrap` in your project. This should install the essentials.
 2. To Import bootstrap css, add this to the top layer component `import 'bootstrap/dist/css/bootstrap.min.css'`.
 
-## Importing and using a component
+## Importing and using a Bootstrap component
 
 You can import any react component in any of your component files simply by the import syntax like so:
 
