@@ -5,7 +5,7 @@ Updated the sample app in lesson 1. Used to discuss basic styling and the applic
 ## Installing Bootstrap
 
 1. Run `npm install react-bootstrap bootstrap` in your project. This should install the essentials.
-2. To Import bootstrap css, add this to the top layer component `import 'bootstrap/dist/css/bootstrap.min.css'`.
+2. To import bootstrap css, add this to the top layer component `import 'bootstrap/dist/css/bootstrap.min.css'`.
 
 ## Importing and using a Bootstrap component
 
