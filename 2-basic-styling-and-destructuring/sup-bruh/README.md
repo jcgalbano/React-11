@@ -11,7 +11,7 @@ Updated the sample app in lesson 1. Used to discuss basic styling and the applic
 
 You can import any react component in any of your component files simply by the import syntax like so:
 
-```
+```javascript
 // ideally we load only what we need
 import Button from 'react-bootstrap/Button';
 
