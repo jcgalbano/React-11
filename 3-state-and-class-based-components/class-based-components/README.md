@@ -7,7 +7,7 @@ Converted to using class-based syntax for the App component.
 ```javascript
   class App extends React.Component {
     render () {
-      render (
+      return (
         <h1>
           Howdy Partner!
         </h1>
