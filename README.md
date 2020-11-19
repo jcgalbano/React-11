@@ -1,4 +1,6 @@
 # React 11
+Served as training materials for my React lecture series in Sourcepad Intl. under the Training Kaizen. Had fun teaching the fundamentals of React, hopefully someone teaching React as well can reuse/repurpose these slides + examples. Be sure to drill down some of the example projects on each lecture folder to see more code examples/installation guides.
+
 
 ## Installation
 
